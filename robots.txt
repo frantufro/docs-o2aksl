@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-w3lcoz.pusatradar88.cfd/sitemap.xml
